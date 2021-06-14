@@ -1,0 +1,44 @@
+Package Control Messages
+========================
+
+SublimeLinter-contrib-standard
+------------------------------
+
+  SublimeLinter-contrib-standard
+  -------------------------------
+  This linter plugin for SublimeLinter provides an interface to standard.
+  
+  ** IMPORTANT! **
+  
+  Before this plugin will activate, you *must*
+  follow the installation instructions here:
+  
+  https://github.com/Flet/SublimeLinter-contrib-standard
+  
+  Want to automatically format your text? 
+  Install StandardFormat from package control!
+  (https://github.com/bcomnes/sublime-standard-format)
+
+
+StandardFormat
+--------------
+
+  Standard Format
+  ---------------
+  This auto-formatter requires that you install `standard` in order to function properly:
+  
+    $ npm i standard -g
+  
+  Please file any issues with the plug-in you come across at:
+  
+    https://github.com/bcomnes/sublime-standard-format/issues
+  
+  Auto-formatting issues can be directed at:
+  
+    https://github.com/feross/standard/issues
+  
+  Please view the README for more information/documentation.
+  
+  Consider installing the `standard` linter plug-in:
+  
+    https://github.com/Flet/SublimeLinter-contrib-standard
